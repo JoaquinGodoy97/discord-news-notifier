@@ -1,0 +1,6 @@
+@discord_news_notifier_HostAddress = http://localhost:5006
+
+GET {{discord_news_notifier_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
